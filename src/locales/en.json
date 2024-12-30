@@ -1,0 +1,17 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "welcome": "Welcome",
+    "change_language": "Change Language"
+  },
+  "dashboard": {
+    "dashboard_title": "Dashboard Overview",
+    "total_users": "Total Users",
+    "active_users": "Active Users",
+    "revenue": "Revenue",
+    "id": "ID",
+    "name": "Name",
+    "email": "Email",
+    "status": "Status"
+  }
+}
